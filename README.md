@@ -1,4 +1,4 @@
-# Employee-management-system
+# Employee management system
 This is my first full-stack application using Spring Boot and Angular. In this application, you can create, update, delete, and see details of all employees from a MySql database.
 
 The landing page is simple.From there, you have 2 tabs:
