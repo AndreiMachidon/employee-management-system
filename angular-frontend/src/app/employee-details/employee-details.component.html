@@ -1,0 +1,16 @@
+<mat-dialog-content class="update-dialog">
+  <mat-card class="example-card">
+    <mat-card-subtitle>Employee Details</mat-card-subtitle>
+    <mat-card-title>{{employee.firstName}} {{employee.lastName}}</mat-card-title>
+    <mat-card-content>
+      <p>First name: {{employee.firstName}}</p>
+      <p>Last name: {{employee.lastName}}</p>
+      <p>Email : {{employee.emailId}}</p>
+      <p>Salary: {{employee.salary | currency}}</p>
+    </mat-card-content>
+    <mat-divider inset></mat-divider>
+    <mat-card-actions>
+      <button class = "close-btn" mat-raised-button mat-dialog-close color="warn">Close</button>
+    </mat-card-actions>
+  </mat-card>
+</mat-dialog-content>

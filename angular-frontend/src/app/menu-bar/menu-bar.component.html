@@ -1,0 +1,20 @@
+<p>
+      <mat-toolbar [color]="menuColor">
+        <button mat-icon-button routerLink=""> 
+          <mat-icon style="color: #FFC107">home</mat-icon>
+        </button>
+        <span style="color: #FFC107">Employee Management System</span>
+        <span class="example-spacer"></span>
+      </mat-toolbar>
+
+</p>
+
+  <mat-divider></mat-divider>
+
+<nav mat-tab-nav-bar [backgroundColor]="navBarColor">
+      <a style="color: #FFC107" mat-tab-link routerLink="employees" routerLinkActive="active">Employee List</a>
+      <a style="color: #FFC107" mat-tab-link routerLink="add" routerLinkActive="active">Add employee</a>
+</nav>
+
+
+
