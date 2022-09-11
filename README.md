@@ -16,7 +16,13 @@ In the Employee List tab, you can see a table of all the employees from the data
 <img src="images/employee_table2.png">
 <br />
 
+If you press the 'update' button, it will open a form where you can update employee's details.
+<br />
+<img src="images/update_employee.png>"
+<br />
 
+If you press the 'details' button, it will open a dialog tab with all the eomployee's details.
+<img src="images/employee_info.png">
 
 In the Add Employee Tab there is a form where you can create a new Person which will be atuoamatically transfered to the database.
 <br />
