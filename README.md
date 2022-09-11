@@ -22,6 +22,7 @@ If you press the 'update' button, it will open a form where you can update emplo
 <br />
 
 If you press the 'details' button, it will open a dialog tab with all the eomployee's details.
+<br />
 <img src="images/employee-info.png">
 
 In the Add Employee Tab there is a form where you can create a new Person which will be atuoamatically transfered to the database.
