@@ -15,6 +15,9 @@ In the Employee List tab, you can see a table of all the employees from the data
 <img src="images/employee_table1.png">
 <img src="images/employee_table2.png">
 <br />
+
+
+
 In the Add Employee Tab there is a form where you can create a new Person which will be atuoamatically transfered to the database.
 <br />
 <img src="images/form.png">
