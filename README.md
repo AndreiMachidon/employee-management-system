@@ -30,5 +30,5 @@ In the Add Employee Tab there is a form where you can create a new Person which 
 <img src="images/form.png">
 
 <br />
-Also, the Angular Form Component uses form validation, so you can't upload a form without information to the database;
+Also, the Angular Form Component uses form validation, so you can't upload a form with invalid information to the database.
 <img src="images/form_validation.png">
